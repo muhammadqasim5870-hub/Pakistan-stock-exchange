@@ -1,0 +1,12 @@
+[
+    "LDCP",
+    "OPEN",
+    "HIGH",
+    "LOW",
+    "CHANGE",
+    "CHANGE (%)",
+    "VOLUME",
+    "DATE_year",
+    "DATE_month",
+    "DATE_day"
+]

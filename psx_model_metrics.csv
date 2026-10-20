@@ -1,0 +1,2 @@
+training_records,testing_records,training_percentage,testing_percentage,target_column,features,MAE,MSE,RMSE,R2_score
+672264,168066,80,20,CLOSE,"['LDCP', 'OPEN', 'HIGH', 'LOW', 'CHANGE', 'CHANGE (%)', 'VOLUME', 'DATE_year', 'DATE_month', 'DATE_day']",4.051124133992566,7923.297768180512,89.0129078739736,0.9899431763897815

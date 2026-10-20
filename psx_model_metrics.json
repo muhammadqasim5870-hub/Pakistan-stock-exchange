@@ -1,0 +1,23 @@
+{
+    "training_records": 672264,
+    "testing_records": 168066,
+    "training_percentage": 80,
+    "testing_percentage": 20,
+    "target_column": "CLOSE",
+    "features": [
+        "LDCP",
+        "OPEN",
+        "HIGH",
+        "LOW",
+        "CHANGE",
+        "CHANGE (%)",
+        "VOLUME",
+        "DATE_year",
+        "DATE_month",
+        "DATE_day"
+    ],
+    "MAE": 4.051124133992566,
+    "MSE": 7923.297768180512,
+    "RMSE": 89.0129078739736,
+    "R2_score": 0.9899431763897815
+}
